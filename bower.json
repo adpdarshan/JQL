@@ -1,0 +1,26 @@
+{
+  "name": "jsonquerylanguage",
+  "version": "0.091.007",
+  "homepage": "https://github.com/adplabs/JQL",
+  "authors": [
+    "Mike Klepper <MadGeometer@gmail.com>"
+  ],
+  "description": "JSON Query Language. An API and toolset for managing unruly JSON!",
+  "main": "./lib/JQL",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "JSON",
+    "query",
+    "Language"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
